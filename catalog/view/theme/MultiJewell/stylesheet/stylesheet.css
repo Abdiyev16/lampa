@@ -5454,7 +5454,14 @@ background:#f3f3f3 !important;
 	.product-block .image .hover-image, #column-right .image .hover-image, #column-left .image .hover-image {
     width: auto;
 	}
-	.responsive-menu.container { padding: 0!important; position:relative; width:100%; }
+	.responsive-menu.container {
+        padding: 0!important;
+        position:relative;
+        width:100%;
+        display: flex!important;
+        align-items: center;
+        /*justify-content: space-between;*/
+    }
 	.main-slider { width:100%; }
 	.main-slider img { width:100%; }
 	#top .container { padding:0 15px; }
@@ -5509,6 +5516,8 @@ background:#f3f3f3 !important;
         background: none;
         font-size: 14px;
         color: #fff;
+        margin-left: auto;
+        padding-right: 15px;
     }
     .call-xs:hover, .call-xs:focus {
         color: #fff;

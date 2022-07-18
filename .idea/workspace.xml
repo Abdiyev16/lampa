@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b31342d-d570-4603-b5a0-ad8c7b2fa0c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/logo123.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf/catalog.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/view/theme/MultiJewell/stylesheet/codezeel/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/view/theme/MultiJewell/stylesheet/codezeel/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/view/theme/MultiJewell/stylesheet/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/view/theme/MultiJewell/stylesheet/stylesheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,12 +27,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/image/cache/catalog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pdf" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maximus\lampa\pdf" />
       <recent name="C:\Users\maximus\lampa\image\cache\catalog" />
       <recent name="C:\Users\maximus\lampa\image\catalog" />
     </key>
@@ -88,33 +91,55 @@
       <workItem from="1658133123062" duration="1873000" />
       <workItem from="1658135498077" duration="600000" />
       <workItem from="1658138753304" duration="2790000" />
-      <workItem from="1658142420522" duration="1386000" />
+      <workItem from="1658142420522" duration="1801000" />
+      <workItem from="1658144273278" duration="1785000" />
+      <workItem from="1658146078362" duration="775000" />
     </task>
+    <task id="LOCAL-00001" summary="fsdfsd">
+      <created>1658144088676</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658144088676</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fsdfsd" />
+    <option name="LAST_COMMIT_MESSAGE" value="fsdfsd" />
   </component>
   <component name="WindowStateProjectService">
     <state x="412" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1657689266757">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1657689266757" />
-    <state x="462" y="116" key="FileChooserDialogImpl" timestamp="1658142801202">
+    <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1658144087811">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="462" y="116" key="FileChooserDialogImpl/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1658142801202" />
-    <state x="524" y="80" width="585" height="592" key="find.popup" timestamp="1658130422684">
+    <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1658144087811" />
+    <state x="462" y="116" key="FileChooserDialogImpl" timestamp="1658144700253">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="524" y="80" width="585" height="592" key="find.popup/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1658130422684" />
+    <state x="462" y="116" key="FileChooserDialogImpl/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1658144700253" />
+    <state x="274" y="94" key="Vcs.Push.Dialog.v2" timestamp="1658144093627">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1658144093627" />
+    <state x="524" y="80" width="585" height="592" key="find.popup" timestamp="1658145960230">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="524" y="80" width="585" height="592" key="find.popup/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1658145960230" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/index.html</url>
-          <line>886</line>
+          <line>889</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
