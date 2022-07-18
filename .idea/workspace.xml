@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b31342d-d570-4603-b5a0-ad8c7b2fa0c0" name="Default Changelist" comment="" />
+    <list default="true" id="0b31342d-d570-4603-b5a0-ad8c7b2fa0c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/image/cache/catalog/logo123.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +13,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2BnFlM7RcTiWf7E3FdI6agnPZOZ" />
   <component name="ProjectViewState">
@@ -80,7 +87,8 @@
       <workItem from="1658131309479" duration="909000" />
       <workItem from="1658133123062" duration="1873000" />
       <workItem from="1658135498077" duration="600000" />
-      <workItem from="1658138753304" duration="638000" />
+      <workItem from="1658138753304" duration="2790000" />
+      <workItem from="1658142420522" duration="1386000" />
     </task>
     <servers />
   </component>
@@ -92,10 +100,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1657689266757" />
-    <state x="462" y="116" key="FileChooserDialogImpl" timestamp="1658129327638">
+    <state x="462" y="116" key="FileChooserDialogImpl" timestamp="1658142801202">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="462" y="116" key="FileChooserDialogImpl/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1658129327638" />
+    <state x="462" y="116" key="FileChooserDialogImpl/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1658142801202" />
     <state x="524" y="80" width="585" height="592" key="find.popup" timestamp="1658130422684">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -106,7 +114,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/index.html</url>
-          <line>883</line>
+          <line>886</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
