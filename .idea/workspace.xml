@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b31342d-d570-4603-b5a0-ad8c7b2fa0c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="2BnFlM7RcTiWf7E3FdI6agnPZOZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/image/cache/catalog" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maximus\lampa\image\cache\catalog" />
+      <recent name="C:\Users\maximus\lampa\image\catalog" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b31342d-d570-4603-b5a0-ad8c7b2fa0c0" name="Default Changelist" comment="" />
+      <created>1657534091578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657534091578</updated>
+      <workItem from="1657534092617" duration="1264000" />
+      <workItem from="1657535371892" duration="1673000" />
+      <workItem from="1657537328015" duration="1660000" />
+      <workItem from="1657539135127" duration="1173000" />
+      <workItem from="1657614927076" duration="898000" />
+      <workItem from="1657617344256" duration="1813000" />
+      <workItem from="1657619502451" duration="1997000" />
+      <workItem from="1657621812095" duration="883000" />
+      <workItem from="1657624221534" duration="1791000" />
+      <workItem from="1657627108547" duration="2277000" />
+      <workItem from="1657647516766" duration="199000" />
+      <workItem from="1657685152641" duration="455000" />
+      <workItem from="1657688880942" duration="1786000" />
+      <workItem from="1657690697128" duration="395000" />
+      <workItem from="1657696939984" duration="1042000" />
+      <workItem from="1657700720848" duration="1438000" />
+      <workItem from="1657702557795" duration="746000" />
+      <workItem from="1657707731821" duration="2026000" />
+      <workItem from="1657709796242" duration="1783000" />
+      <workItem from="1657711610421" duration="1058000" />
+      <workItem from="1657822181772" duration="1335000" />
+      <workItem from="1657824668294" duration="246000" />
+      <workItem from="1657858012994" duration="1694000" />
+      <workItem from="1657859831374" duration="1789000" />
+      <workItem from="1657861640566" duration="1701000" />
+      <workItem from="1657863461495" duration="1151000" />
+      <workItem from="1657869471649" duration="1258000" />
+      <workItem from="1657871288378" duration="1226000" />
+      <workItem from="1657873102945" duration="1790000" />
+      <workItem from="1657874916681" duration="1792000" />
+      <workItem from="1657876734194" duration="1765000" />
+      <workItem from="1657878594527" duration="1769000" />
+      <workItem from="1657880431817" duration="1825000" />
+      <workItem from="1657882292714" duration="1612000" />
+      <workItem from="1657884097814" duration="1788000" />
+      <workItem from="1657885928486" duration="777000" />
+      <workItem from="1658117629126" duration="83000" />
+      <workItem from="1658120125100" duration="1583000" />
+      <workItem from="1658122616052" duration="1521000" />
+      <workItem from="1658127685487" duration="1790000" />
+      <workItem from="1658129500171" duration="1785000" />
+      <workItem from="1658131309479" duration="909000" />
+      <workItem from="1658133123062" duration="1873000" />
+      <workItem from="1658135498077" duration="600000" />
+      <workItem from="1658138753304" duration="638000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="412" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1657689266757">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1657689266757" />
+    <state x="462" y="116" key="FileChooserDialogImpl" timestamp="1658129327638">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="116" key="FileChooserDialogImpl/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1658129327638" />
+    <state x="524" y="80" width="585" height="592" key="find.popup" timestamp="1658130422684">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="524" y="80" width="585" height="592" key="find.popup/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1658130422684" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/index.html</url>
+          <line>883</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
