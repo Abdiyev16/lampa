@@ -1,94 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b31342d-d570-4603-b5a0-ad8c7b2fa0c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Berchtold CZ907-22, 22.8v 250w G6.35(B).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Berchtold CZ907-22, 22.8v 250w G6.35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Berchtold CZ907-22, 22.8v 250w G6.35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Berchtold CZ908-22, 22.8v 150w G6.35(2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Berchtold CZ908-22, 22.8v 150w G6.35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Berchtold halogen capsule lamp CZ909-22(3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Berchtold halogen capsule lamp CZ909-22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Carley CL1315 2.5V 0.64A(4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Carley CL1315 2.5V 0.64A.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Cermax PE300C-10FS Xenon Lamp(5).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Cermax PE300C-10FS Xenon Lamp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/EOS Bravo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Excelitas Cermax J2022 Xenon Lamp(6).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Excelitas Cermax J2022 Xenon Lamp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Excelitas Cermax ME300BF Y1911 300 Watt Xenon Lamp(7).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Excelitas Cermax ME300BF Y1911 300 Watt Xenon Lamp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/GE CP77 120V 1000W G9.5 FEL Quartzline Halogen Lamp(8).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/GE CP77 120V 1000W G9.5 FEL Quartzline Halogen Lamp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Haag Streit type 900-930 6v 4.5a P44S(9).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Haag Streit type 900-930 6v 4.5a P44S.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Haag Streit type 940-750 6v 4.5a P40S(10).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Haag Streit type 940-750 6v 4.5a P40S.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Hanaulux H018251 220v 50w BX22D Clear Equivalent(11).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Hanaulux H018251 220v 50w BX22D Clear Equivalent.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Hanaulux H018550(12).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Hanaulux H018550.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Hanaulux Maquet 56018769.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Heine Original XHL X-001.88.106 2.5v.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Heine X-01.88.035 Original 2.5v.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Heine X-01.88.077 Original 2.5v lamp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Heine X-01.88.105 Mini 3000 F.O. Otoscope lamp 2.5v.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Heine X-01.88.110 Mini 3000 Otoscope lamp 2.5v.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Heine X-02.88.089 Original 3.5v lamp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Heine X-02.88.099 Original 3.5v lamp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Heine type X-001.88.032 Original 2.5v diagnostic lamp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Heine type X-002.88.044 Original 3.5v lamp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Heine type X-02.88.078 Original 3.5v.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/LUXTEL CeraLux CL1854 300W.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/MERIVAARA MERILUX 22.8V 40W IRC 485761.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Maquet ALM ECL0001 Halogen Capsule Lamp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Mindray 12V 20W (801-BA80-00222-00).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Olympus MAJ-1817.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Osram 64620 EFR-5 15v 150w GZ6.35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Osram EJV 21v 150w GX5,3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Osram HBO50WAC L1 Short arc mercury lamp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Osram HXP R 120W45C VIS Long life mercury short-arc lamp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Osram XBO R 100W45 C Lamp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Osram XBO R 101W45 C OFR Xenon short arc lamp with cable &amp; reflector.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Osram XBO R 180W45 C OFR Xenon short arc lamp with cable &amp; reflector.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Osram XBO R 181W45 C OFR Xenon short arc lamp with cable and reflector(19).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Osram XBO R 181W45 C OFR Xenon short arc lamp with cable and reflector.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/P104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/P405 (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/P405.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/P410.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/P803S.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/P803SU.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/P814.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/P826S-10C.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/P828S-10V.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/P858A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/P869J.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/P912.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/P929.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/P936LL.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/P959LL.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/P974S.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/SP 2057 TMS1024(18).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/SP 2057 TMS1024.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Ushio 102, 103-d Short arc mercury lamp.(17).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Ushio 102, 103-d Short arc mercury lamp..jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Ushio UXR-300BF Xenon Lamp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Ushio UXR-300ES Xenon Lamp(16).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Ushio UXR-300ES Xenon Lamp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/XBO R 100W 45 OFR Xenon short arc lamp with reflector(15).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/XBO R 100W 45 OFR Xenon short arc lamp with reflector.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Лампа 12V 50W (727-0536)(14).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Лампа 12V 50W (727-0536).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Лампа JCR6V10W20H-SY 6V 10W(13).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Лампа JCR6V10W20H-SY 6V 10W.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Лампа для биохимического анализатора.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Лампа для биохимического анализатора.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog/view/javascript/codezeel/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/view/javascript/codezeel/custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog/view/theme/MultiJewell/stylesheet/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/view/theme/MultiJewell/stylesheet/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="0b31342d-d570-4603-b5a0-ad8c7b2fa0c0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +106,7 @@
       <workItem from="1658733435114" duration="1798000" />
       <workItem from="1658735268757" duration="2013000" />
       <workItem from="1658737507909" duration="1672000" />
-      <workItem from="1658739354012" duration="668000" />
+      <workItem from="1658739354012" duration="1066000" />
     </task>
     <task id="LOCAL-00001" summary="fsdfsd">
       <created>1658144088676</created>
@@ -223,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658476318841</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add jivo">
+      <created>1658740048114</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658740048114</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,18 +159,20 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1658308196254" />
-    <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1658476318301">
+    <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1658740047161">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1658476318301" />
+    <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1658740047161" />
     <state x="462" y="116" key="FileChooserDialogImpl" timestamp="1658144700253">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="116" key="FileChooserDialogImpl/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1658144700253" />
-    <state x="274" y="94" key="Vcs.Push.Dialog.v2" timestamp="1658476327108">
+    <state x="274" y="94" key="Vcs.Push.Dialog.v2" timestamp="1658740051381">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="274" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1658476327108" />
+    <state x="274" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1658740051381" />
     <state x="-1355" y="22" width="823" height="846" key="find.popup" timestamp="1658485442214">
       <screen x="-1920" y="-172" width="1920" height="1040" />
     </state>
