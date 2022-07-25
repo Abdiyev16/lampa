@@ -2547,7 +2547,7 @@ h2.price {
 .product-grid li,
 .box-product .product-items,
 .product-carousel .slider-item {
-	width:295px;
+	width:280px;
 	float:left;
 	display: inline-block;
 }
