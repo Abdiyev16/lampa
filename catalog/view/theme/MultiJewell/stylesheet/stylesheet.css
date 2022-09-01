@@ -4784,7 +4784,7 @@ background:#f3f3f3 !important;
 	position: relative; 
 }
 #cztestimonialcmsblock .testimonial_container .testimonial-area ul#testimonial-carousel {
-	padding: 20px 70px;
+	padding: 0px 40px;
 }
 #cztestimonialcmsblock .testimonial_container .testimonial-area ul#testimonial-carousel li.slider-item {
 	overflow: hidden;
@@ -4797,7 +4797,7 @@ background:#f3f3f3 !important;
 }
 #cztestimonialcmsblock .testimonial_container .testimonial-area ul#testimonial-carousel li.slider-item .cms_face .testimonial-image {
 
-    margin: 0 -60px;
+    margin: 0 0;
 }
 .testimonial-image img{
     width: 100%;
@@ -4816,13 +4816,13 @@ background:#f3f3f3 !important;
 	color: #262626; 
 }
 #cztestimonialcmsblock .testimonial_container .testimonial-area ul#testimonial-carousel li.slider-item .product_inner_cms {
-	padding-top: 30px;
+	padding-top: 63px;
 	text-align: left;
     width: 60%;
 }
 #cztestimonialcmsblock .testimonial_container .testimonial-area ul#testimonial-carousel li.slider-item .product_inner_cms .des {
 	margin-bottom: 15px;
-	line-height: 28px;
+	line-height: 35px;
 	color: #808080;
 	position: relative;
 	padding-left: 30px;

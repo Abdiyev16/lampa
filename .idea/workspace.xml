@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b31342d-d570-4603-b5a0-ad8c7b2fa0c0" name="Default Changelist" comment="" />
+    <list default="true" id="0b31342d-d570-4603-b5a0-ad8c7b2fa0c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/image/cache/catalog/JCR6V10W20H-SY 6V 10W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/cache/catalog/photron.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Лампа JCR6V10W20H-SY 6V 10W.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/view/theme/MultiJewell/stylesheet/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/view/theme/MultiJewell/stylesheet/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,6 +114,23 @@
       <workItem from="1658735268757" duration="2013000" />
       <workItem from="1658737507909" duration="1672000" />
       <workItem from="1658739354012" duration="1066000" />
+      <workItem from="1659611665691" duration="599000" />
+      <workItem from="1659613473694" duration="1199000" />
+      <workItem from="1659677895181" duration="599000" />
+      <workItem from="1659689111583" duration="598000" />
+      <workItem from="1659699575317" duration="459000" />
+      <workItem from="1660031419937" duration="599000" />
+      <workItem from="1661145810242" duration="1465000" />
+      <workItem from="1661160450758" duration="741000" />
+      <workItem from="1661919705502" duration="357000" />
+      <workItem from="1661922713541" duration="599000" />
+      <workItem from="1662018750922" duration="1331000" />
+      <workItem from="1662020660469" duration="699000" />
+      <workItem from="1662022474283" duration="1803000" />
+      <workItem from="1662024331309" duration="2068000" />
+      <workItem from="1662026424035" duration="599000" />
+      <workItem from="1662028565762" duration="599000" />
+      <workItem from="1662032004265" duration="432000" />
     </task>
     <task id="LOCAL-00001" summary="fsdfsd">
       <created>1658144088676</created>
@@ -168,10 +192,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="116" key="FileChooserDialogImpl/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1658144700253" />
-    <state x="274" y="94" key="Vcs.Push.Dialog.v2" timestamp="1658740051381">
+    <state x="274" y="94" key="Vcs.Push.Dialog.v2" timestamp="1662025413811">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="274" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1658476327108" />
+    <state x="274" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1662025413811" />
     <state x="274" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1658740051381" />
     <state x="-1355" y="22" width="823" height="846" key="find.popup" timestamp="1658485442214">
       <screen x="-1920" y="-172" width="1920" height="1040" />
@@ -184,7 +208,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/index.html</url>
-          <line>1134</line>
+          <line>1111</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
