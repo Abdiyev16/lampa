@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b31342d-d570-4603-b5a0-ad8c7b2fa0c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/JCR6V10W20H-SY 6V 10W.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/photron.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Лампа JCR6V10W20H-SY 6V 10W.png" afterDir="false" />
+    <list default="true" id="0b31342d-d570-4603-b5a0-ad8c7b2fa0c0" name="Default Changelist" comment="add jivo2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog/view/theme/MultiJewell/stylesheet/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/view/theme/MultiJewell/stylesheet/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +125,19 @@
       <workItem from="1662024331309" duration="2068000" />
       <workItem from="1662026424035" duration="599000" />
       <workItem from="1662028565762" duration="599000" />
-      <workItem from="1662032004265" duration="432000" />
+      <workItem from="1662032004265" duration="941000" />
+      <workItem from="1662035612951" duration="207000" />
+      <workItem from="1662102347130" duration="620000" />
+      <workItem from="1662103784422" duration="1751000" />
+      <workItem from="1662105613384" duration="775000" />
+      <workItem from="1662108079899" duration="1077000" />
+      <workItem from="1662109949119" duration="653000" />
+      <workItem from="1662112505077" duration="1790000" />
+      <workItem from="1662114987449" duration="1470000" />
+      <workItem from="1662357202667" duration="53000" />
+      <workItem from="1662360901216" duration="878000" />
+      <workItem from="1662362712969" duration="1789000" />
+      <workItem from="1662364530022" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="fsdfsd">
       <created>1658144088676</created>
@@ -167,7 +174,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658740048114</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add jivo1">
+      <created>1662032486680</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662032486680</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add jivo2">
+      <created>1662364910701</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662364910701</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,39 +197,45 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fsdfsd" />
     <MESSAGE value="add jivo" />
-    <option name="LAST_COMMIT_MESSAGE" value="add jivo" />
+    <MESSAGE value="add jivo1" />
+    <MESSAGE value="add jivo2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add jivo2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="412" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1658308196254">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1658308196254" />
-    <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1658740047161">
+    <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1662365092366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1658476318301" />
+    <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1662365092366" />
     <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1658740047161" />
+    <state x="128" y="65" key="DiffContextDialog" timestamp="1662032492354">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="128" y="65" key="DiffContextDialog/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1662032492354" />
     <state x="462" y="116" key="FileChooserDialogImpl" timestamp="1658144700253">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="116" key="FileChooserDialogImpl/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1658144700253" />
-    <state x="274" y="94" key="Vcs.Push.Dialog.v2" timestamp="1662025413811">
+    <state x="274" y="94" key="Vcs.Push.Dialog.v2" timestamp="1662365086076">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="274" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1662025413811" />
+    <state x="274" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1662365086076" />
     <state x="274" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1658740051381" />
-    <state x="-1355" y="22" width="823" height="846" key="find.popup" timestamp="1658485442214">
-      <screen x="-1920" y="-172" width="1920" height="1040" />
+    <state x="524" y="80" width="585" height="592" key="find.popup" timestamp="1662363463873">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-1355" y="22" width="823" height="846" key="find.popup/0.0.1366.728/-1920.-172.1920.1040@-1920.-172.1920.1040" timestamp="1658485442214" />
-    <state x="524" y="80" width="585" height="592" key="find.popup/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1658145960230" />
+    <state x="524" y="80" width="585" height="592" key="find.popup/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1662363463873" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/index.html</url>
-          <line>1111</line>
+          <line>1112</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
