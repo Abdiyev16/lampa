@@ -43,6 +43,11 @@
 	-webkit-tap-highlight-color: transparent;
 }
 
+#module-0-carousel .slider-item {
+	width: fit-content !important;
+	margin: 0 10px;
+}
+
 /* mouse grab icon */
  
 

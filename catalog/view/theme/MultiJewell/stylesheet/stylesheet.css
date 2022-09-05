@@ -4783,6 +4783,32 @@ background:#f3f3f3 !important;
 	width: 100%;
 	position: relative; 
 }
+
+.call-body {
+    position: fixed;
+    right: 31px;
+    bottom: 15%;
+    z-index: 9;
+}
+
+.call-body img {
+    width: 80px;
+}
+.whatsapp-body {
+    position: fixed;
+    right: 40px;
+    bottom: 8%;
+    z-index: 9;
+}
+.whatsapp-body img {
+    width: 60px;
+}
+.review{
+    background-color: #FFFFFF;
+    height: 100%;
+    align-items: center;
+    padding: 40px;
+}
 #cztestimonialcmsblock .testimonial_container .testimonial-area ul#testimonial-carousel {
 	padding: 0px 40px;
 }
