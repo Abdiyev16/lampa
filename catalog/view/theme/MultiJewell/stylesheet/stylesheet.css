@@ -4651,7 +4651,7 @@ background:#f3f3f3 !important;
 	-webkit-transition: all 0.3s ease-out 0s;
 	-moz-transition: all 0.3s ease-out 0s;
 	-o-transition: all 0.3s ease-out 0s;
-	transition: all 0.3s ease-out 0s; 
+	transition: all 0.3s ease-out 0s;
 }
 #czbannercmsblock .cmsbanners .one-third .cmsbanner a.banner-anchor:after {
 	background-color: rgba(204, 174, 139, 0.1);
@@ -4664,7 +4664,7 @@ background:#f3f3f3 !important;
 	-webkit-transition: all 0.3s ease-out 0s;
 	-moz-transition: all 0.3s ease-out 0s;
 	-o-transition: all 0.3s ease-out 0s;
-	transition: all 0.3s ease-out 0s; 
+	transition: all 0.3s ease-out 0s;
 }
 #czbannercmsblock .cmsbanners .one-third .cmsbanner:hover a.banner-anchor:before {
 	height: 100%;
@@ -4672,7 +4672,7 @@ background:#f3f3f3 !important;
 	-webkit-transition: all 0.3s ease-out 0s;
 	-moz-transition: all 0.3s ease-out 0s;
 	-o-transition: all 0.3s ease-out 0s;
-	transition: all 0.3s ease-out 0s; 
+	transition: all 0.3s ease-out 0s;
 }
 #czbannercmsblock .cmsbanners .one-third .cmsbanner:hover a.banner-anchor:after {
 	height: 100%;
@@ -4680,7 +4680,7 @@ background:#f3f3f3 !important;
 	-webkit-transition: all 0.3s ease-out 0s;
 	-moz-transition: all 0.3s ease-out 0s;
 	-o-transition: all 0.3s ease-out 0s;
-	transition: all 0.3s ease-out 0s; 
+	transition: all 0.3s ease-out 0s;
 }
 
 
@@ -4700,23 +4700,18 @@ background:#f3f3f3 !important;
 	margin: 0px auto; 
 }
 #czparallaxcmsblock .parallax_container .service-area {
-	padding: 0;
+	padding: 20px;
 	float: left;
 	width: 100%;
 	text-align: center; 
 }
 #czparallaxcmsblock .parallax_container .service-area .service-third {
 	float: left;
-	width: 33.33%;
+	width: 24.33%;
 	padding: 95px 40px 110px;
 	color: #FFF; 
 }
-#czparallaxcmsblock .parallax_container .service-area .service-third:hover {
-	-webkit-transition: all 0.5s ease;
-	-moz-transition: all 0.5s ease;
-	-o-transition: all 0.5s ease;
-	transition: all 0.5s ease; 
-}
+
 #czparallaxcmsblock .parallax_container .service-area .service-third .service-icon {
 	display: inline-block;
 	height: 55px;
@@ -4725,53 +4720,35 @@ background:#f3f3f3 !important;
 	-webkit-transition: all 0.5s ease;
 	-moz-transition: all 0.5s ease;
 	-o-transition: all 0.5s ease;
-	transition: all 0.5s ease; 
+	transition: all 0.5s ease;
 }
 #czparallaxcmsblock .parallax_container .service-area .service-third.service1 .icon1 {
-	background: url(../image/codezeel/service-icon.png) no-repeat scroll center 10px;
-	-webkit-transition: all 0.5s ease;
-	-moz-transition: all 0.5s ease;
-	-o-transition: all 0.5s ease;
-	transition: all 0.5s ease; 
-}
-#czparallaxcmsblock .parallax_container .service-area .service-third.service1:hover .icon1 {
-	background-position: center 15px;
-	-webkit-transition: all 0.5s ease;
-	-moz-transition: all 0.5s ease;
-	-o-transition: all 0.5s ease;
-	transition: all 0.5s ease; 
-}
-#czparallaxcmsblock .parallax_container .service-area .service-third.service2 .icon2 {
-	background: url(../image/codezeel/service-icon.png) no-repeat scroll center -53px;
-	-webkit-transition: all 0.5s ease;
-	-moz-transition: all 0.5s ease;
-	-o-transition: all 0.5s ease;
-	transition: all 0.5s ease; 
-}
-#czparallaxcmsblock .parallax_container .service-area .service-third.service2:hover .icon2 {
-	background-position: center -48px;
-	-webkit-transition: all 0.5s ease;
-	-moz-transition: all 0.5s ease;
-	-o-transition: all 0.5s ease;
-	transition: all 0.5s ease; 
-}
-#czparallaxcmsblock .parallax_container .service-area .service-third.service3 .icon3 {
-	background: url(../image/codezeel/service-icon.png) no-repeat scroll center -113px;
-	-webkit-transition: all 0.5s ease;
-	-moz-transition: all 0.5s ease;
-	-o-transition: all 0.5s ease;
-	transition: all 0.5s ease; 
-}
-#czparallaxcmsblock .parallax_container .service-area .service-third.service3:hover .icon3 {
-	background-position: center -108px;
-	-webkit-transition: all 0.5s ease;
-	-moz-transition: all 0.5s ease;
-	-o-transition: all 0.5s ease;
-	transition: all 0.5s ease; 
+	background: url(../image/codezeel/icon1.png) no-repeat center/contain;
 }
 
+#czparallaxcmsblock .parallax_container .service-area .service-third.service2 .icon2 {
+	background: url(../image/codezeel/icon12.png) no-repeat center/contain;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+#czparallaxcmsblock .parallax_container .service-area .service-third.service3 .icon3 {
+	background: url(../image/codezeel/icon3.png) no-repeat center/contain;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+#czparallaxcmsblock .parallax_container .service-area .service-third.service4 .icon3 {
+    background: url(../image/codezeel/icon4.png) no-repeat center/contain;
+
+}
+
+
 #czparallaxcmsblock .parallax_container .service-area .service-third .service-content .service-heading {
-	font: 700 20px/35px "Roboto Slab", sans-serif;
+	font: 700 11px/20px "Roboto Slab", sans-serif;
 	text-transform: uppercase;
 	color: #FFF;
 	margin-bottom: 8px; 
@@ -5796,8 +5773,9 @@ background:#f3f3f3 !important;
         padding: 6px 0 30px;
     }
     #czparallaxcmsblock .parallax_container .service-area .service-third .service-content .service-heading {
-        font: 700 13px/35px "Roboto Slab", sans-serif;
-        margin-bottom: -8px;
+        font: 700 13px/23px "Roboto Slab", sans-serif;
+        margin-bottom: 10px;
+        margin-top: 15px;
     }
     #czparallaxcmsblock .parallax_container .service-area .service-third {
         padding: 10px 0!important;

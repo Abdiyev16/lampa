@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b31342d-d570-4603-b5a0-ad8c7b2fa0c0" name="Default Changelist" comment="">
+    <list default="true" id="0b31342d-d570-4603-b5a0-ad8c7b2fa0c0" name="Default Changelist" comment="add jivo3">
+      <change afterPath="$PROJECT_DIR$/catalog/view/theme/MultiJewell/image/codezeel/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/view/theme/MultiJewell/image/codezeel/icon11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/view/theme/MultiJewell/image/codezeel/icon12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/view/theme/MultiJewell/image/codezeel/icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/view/theme/MultiJewell/image/codezeel/icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/view/theme/MultiJewell/image/codezeel/icon4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Качества.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Специальные (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Специальные 1130.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Специальные условия.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/cache/catalog/Специальные.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog/view/theme/MultiJewell/stylesheet/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/view/theme/MultiJewell/stylesheet/stylesheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -25,12 +36,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/untitled/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/catalog/view/theme/MultiJewell/image/codezeel" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maximus\lampa\catalog\view\theme\MultiJewell\image\codezeel" />
       <recent name="C:\Users\maximus\lampa\image\cache\catalog" />
       <recent name="C:\Users\maximus\lampa\pdf" />
       <recent name="C:\Users\maximus\lampa\image\catalog" />
@@ -149,7 +161,12 @@
       <workItem from="1662381619592" duration="652000" />
       <workItem from="1662439627176" duration="599000" />
       <workItem from="1662441439667" duration="599000" />
-      <workItem from="1662450356430" duration="1622000" />
+      <workItem from="1662450356430" duration="1851000" />
+      <workItem from="1662452227365" duration="510000" />
+      <workItem from="1662454141264" duration="2097000" />
+      <workItem from="1662456271427" duration="1483000" />
+      <workItem from="1662458134748" duration="1460000" />
+      <workItem from="1662459954499" duration="1080000" />
     </task>
     <task id="LOCAL-00001" summary="fsdfsd">
       <created>1658144088676</created>
@@ -228,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662382551904</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add jivo3">
+      <created>1662451998563</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1662451998563</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,14 +267,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="add jivo3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="412" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1658308196254">
+    <state x="412" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1662456965943">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="412" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1658308196254" />
-    <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1662382551247">
+    <state x="412" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1662456965943" />
+    <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1662451997153">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1662382551247" />
+    <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1662451997153" />
     <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1658740047161" />
     <state x="128" y="65" key="DiffContextDialog" timestamp="1662032492354">
       <screen x="0" y="0" width="1366" height="728" />
@@ -260,10 +284,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="116" key="FileChooserDialogImpl/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1662376475502" />
-    <state x="274" y="94" key="Vcs.Push.Dialog.v2" timestamp="1662382557163">
+    <state x="274" y="94" key="Vcs.Push.Dialog.v2" timestamp="1662452001391">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="274" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1662382557163" />
+    <state x="274" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-172.1920.1040@0.0.1366.728" timestamp="1662452001391" />
     <state x="274" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1658740051381" />
     <state x="524" y="80" width="585" height="592" key="find.popup" timestamp="1662365911673">
       <screen x="0" y="0" width="1366" height="728" />
@@ -276,7 +300,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/index.html</url>
-          <line>1116</line>
+          <line>1113</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
