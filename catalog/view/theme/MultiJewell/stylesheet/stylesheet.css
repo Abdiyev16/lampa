@@ -5654,6 +5654,15 @@ background:#f3f3f3 !important;
 	.czcategory_block .box-heading, .box-heading{
 		font-size: 24px;
 	}
+    .box-heading1{
+        font-size: 24px;
+    }
+    .review{
+        padding: 20px;
+    }
+    .review-text p{
+        font-size: 10px;
+    }
 	.product-layout.product-grid{width:100% !important;}
 	.shopping-cart .input-group .form-control{width:100%;padding:0;text-align:center;}
 	.account-wishlist .table-bordered{float:left;width:100%;overflow:auto;display:inline;}
