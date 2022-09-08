@@ -2,6 +2,10 @@
 	border: 1px solid #f00;
 }
 */
+.morecontent span {
+    display: none;
+}
+
 body {
 	color: #808080;
     background: #f9f6f1;
@@ -5641,11 +5645,34 @@ background:#f3f3f3 !important;
     .newsletter h5.news-title {
         margin-bottom: 0;
     }
+    .box-heading2 {
+        text-align: center;
+        width: auto;
+        position: relative;
+        margin: 0 auto 35px;
+        padding: 0;
+        color: #000000;
+        position: relative;
+        font: 700 19px/30px "Roboto Slab", sans-serif;
+        text-transform: uppercase;
+        margin-top: 2px;
+        margin-bottom: 22px;
+    }
+    .common-home #content {
+        padding: 0;
+        margin-bottom: 70px;
+    }
 	.czcategory_block .box-heading, .box-heading{
-		font-size: 24px;
+		font-size: 19px;
 	}
+    .banners-slider-carousel .carousel-block {
+        margin: -15px auto;
+        position: relative;
+    }
     .box-heading1{
-        font-size: 24px;
+        font-size: 19px;
+        margin-top: 20px;
+        margin-bottom: 27px;
     }
     .review{
         padding: 20px;
