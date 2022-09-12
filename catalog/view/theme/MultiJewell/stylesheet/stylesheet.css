@@ -1964,6 +1964,9 @@ p.powered{text-align:center; float:left; margin:0; font-size:14px;}
 	line-height:18px;
 	/*font-family: 'Poppins', sans-serif;*/
 }
+.product_inner_cms .des{
+    text-align: justify;
+}
 .product-list .product-thumb h4{
 	margin-bottom: 10px;
     display: block;
