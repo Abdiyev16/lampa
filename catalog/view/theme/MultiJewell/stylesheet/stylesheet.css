@@ -4806,7 +4806,7 @@ background:#f3f3f3 !important;
 .whatsapp-body {
     position: fixed;
     right: 40px;
-    bottom: 8%;
+    bottom: 6%;
     z-index: 9;
 }
 .whatsapp-body img {
@@ -5663,14 +5663,15 @@ background:#f3f3f3 !important;
         margin-bottom: 70px;
     }
 	.czcategory_block .box-heading, .box-heading{
-		font-size: 19px;
+		font-size: 17px;
 	}
+    .author-caption .morel
     .banners-slider-carousel .carousel-block {
         margin: -15px auto;
         position: relative;
     }
     .box-heading1{
-        font-size: 19px;
+        font-size: 17px;
         margin-top: 20px;
         margin-bottom: 27px;
     }
