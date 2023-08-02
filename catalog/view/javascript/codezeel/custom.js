@@ -481,9 +481,9 @@ jQuery(document).ready(function () {
   	var size_li = jQuery("#tab-latest #tablatest-grid > div").size();
 	var size_li_spec = jQuery("#tab-special #tabspecial-grid > div").size();
 	var size_li_best = jQuery("#tab-bestseller #tabbestseller-grid > div").size();
-	var x=20;
-	var y=20;
-	var z=20;
+	var x=30;
+	var y=30;
+	var z=30;
 
 	jQuery('#tab-latest #tablatest-grid > div:lt('+x+')').fadeIn('slow');
 	jQuery('#tab-special #tabspecial-grid > div:lt('+y+')').fadeIn('slow');

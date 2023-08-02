@@ -1692,11 +1692,9 @@ p.powered{text-align:center; float:left; margin:0; font-size:14px;}
 .box-heading2 {
     text-align: center;
     width: auto;
-    position: relative;
     margin: 0 auto 35px;
     padding: 0px;
     color: #000000;
-    position: relative;
     font: 700 40px/30px "Roboto Slab", sans-serif;
     text-transform: uppercase;
     margin-top: 60px;
@@ -5651,11 +5649,9 @@ background:#f3f3f3 !important;
     .box-heading2 {
         text-align: center;
         width: auto;
-        position: relative;
         margin: 0 auto 35px;
         padding: 0;
         color: #000000;
-        position: relative;
         font: 700 19px/30px "Roboto Slab", sans-serif;
         text-transform: uppercase;
         margin-top: 2px;
