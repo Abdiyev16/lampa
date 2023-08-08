@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b31342d-d570-4603-b5a0-ad8c7b2fa0c0" name="Default Changelist" comment="add jivo5">
-      <change afterPath="$PROJECT_DIR$/pdf/Каталог MED Solutions.pdf" afterDir="false" />
+    <list default="true" id="0b31342d-d570-4603-b5a0-ad8c7b2fa0c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/image/catalog/Pentax-EPK-3000.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -25,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pdf" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/image/catalog" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -179,7 +179,8 @@
       <workItem from="1690537071940" duration="1293000" />
       <workItem from="1690961776256" duration="1753000" />
       <workItem from="1690963546783" duration="859000" />
-      <workItem from="1690974784471" duration="314000" />
+      <workItem from="1690974784471" duration="700000" />
+      <workItem from="1691468260258" duration="422000" />
     </task>
     <task id="LOCAL-00001" summary="fsdfsd">
       <created>1658144088676</created>
@@ -335,7 +336,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690964200310</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add jivo5">
+      <created>1690975149431</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1690975149431</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add lamp item2">
+      <created>1690975310436</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1690975310436</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,23 +363,24 @@
     <MESSAGE value="add jivo2" />
     <MESSAGE value="add jivo3" />
     <MESSAGE value="add jivo4" />
-    <MESSAGE value="add jivo5" />
     <MESSAGE value="add lamp item" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lamp item" />
+    <MESSAGE value="add jivo5" />
+    <MESSAGE value="add lamp item2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lamp item2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1690964199538">
+    <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1690975309827">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1690964199538" />
+    <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1690975309827" />
     <state x="128" y="52" key="DiffContextDialog" timestamp="1690964169847">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="128" y="52" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1690964169847" />
-    <state x="274" y="94" key="Vcs.Push.Dialog.v2" timestamp="1690964209229">
+    <state x="274" y="94" key="Vcs.Push.Dialog.v2" timestamp="1690975318972">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="274" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1690964209229" />
+    <state x="274" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1690975318972" />
     <state x="390" y="97" width="807" height="534" key="find.popup" timestamp="1690964080100">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
